@@ -1,0 +1,76 @@
+body {
+	margin:0px;
+	padding:0px;
+	
+	background:#D94F05;
+	margin:auto;
+	background-image:url("image/background.jpg");
+	background-repeat:no-repeat;
+	background-size:100%;
+	
+}
+.regist h3 {
+	text-transform:uppercase;
+	text-align:center;
+	color:#33FFF3;
+	font-family:arial;
+	
+}
+.regist h2 {
+	text-transform:uppercase;
+	text-align:center;
+	color:white;
+	font-family:arial;
+}
+.regist {
+	background:gray;
+	border:1px solid black;
+	display:inline-block;
+	padding:20px 100px;
+	margin-left:500px;
+	
+}
+.regist form label {
+	text-transform:capitalize;
+	color:#3D3854;
+	
+	
+}
+.regist form h1 {
+	text-transform:capitalize;
+	color:white;
+}
+.regist form input[type="text"] {
+	width:100%;
+	padding:10px 4px;
+	display:block;
+	text-transform:capitalize;
+	margin-bottom:14px;
+	border:none;
+	border-radius:2px;
+	margin-top:2px;
+	
+}
+.regist form input[type="password"] {
+	width:100%;
+	padding:10px 4px;
+	display:block;
+	text-transform:capitalize;
+	margin-bottom:14px;
+	border:none;
+	border-radius:2px;
+	margin-top:2px;
+
+}
+.regist form input[type="submit"] {
+	padding:10px 20px;
+	color:white;
+	display:inline-block;
+	background:green;
+	border:none;
+	border-radius:2px;
+	text-transform:capitalize;
+	margin-left:125px;
+	margin-top:25px;
+	
+}
